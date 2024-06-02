@@ -1,4 +1,4 @@
-package umc.spring1.apiResponse.code;
+package umc.spring1.apiPayload.code;
 
 public interface BaseCode {
 

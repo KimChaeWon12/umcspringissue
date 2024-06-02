@@ -1,4 +1,4 @@
-package umc.spring1.apiResponse.code;
+package umc.spring1.apiPayload.code;
 
 import lombok.Builder;
 import lombok.Getter;

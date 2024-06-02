@@ -2,7 +2,7 @@ package umc.spring1.web.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import umc.spring1.apiResponse.ApiResponse;
+import umc.spring1.apiPayload.ApiResponse;
 import umc.spring1.converter.TempConverter;
 import umc.spring1.service.TempService.TempQueryService;
 import umc.spring1.web.dto.TempResponse;

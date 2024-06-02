@@ -1,9 +1,9 @@
-package umc.spring1.apiResponse.exception;
+package umc.spring1.apiPayload.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import umc.spring1.apiResponse.code.BaseErrorCode;
-import umc.spring1.apiResponse.code.ErrorReasonDTO;
+import umc.spring1.apiPayload.code.BaseErrorCode;
+import umc.spring1.apiPayload.code.ErrorReasonDTO;
 
 @Getter
 @AllArgsConstructor

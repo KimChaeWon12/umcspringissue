@@ -1,10 +1,10 @@
-package umc.spring1.apiResponse.code.status;
+package umc.spring1.apiPayload.code.status;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
-import umc.spring1.apiResponse.code.BaseErrorCode;
-import umc.spring1.apiResponse.code.ErrorReasonDTO;
+import umc.spring1.apiPayload.code.BaseErrorCode;
+import umc.spring1.apiPayload.code.ErrorReasonDTO;
 
 @Getter
 @AllArgsConstructor

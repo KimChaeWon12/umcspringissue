@@ -2,8 +2,8 @@ package umc.spring1.service.TempService;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import umc.spring1.apiResponse.code.status.ErrorStatus;
-import umc.spring1.apiResponse.exception.handler.TempHandler;
+import umc.spring1.apiPayload.code.status.ErrorStatus;
+import umc.spring1.apiPayload.exception.handler.TempHandler;
 
 @Service
 @RequiredArgsConstructor

@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import umc.spring1.apiResponse.ApiResponse;
+import umc.spring1.apiPayload.ApiResponse;
 import umc.spring1.converter.MemberConverter;
 import umc.spring1.domain.Member;
 import umc.spring1.service.MemberService.MemberCommandService;

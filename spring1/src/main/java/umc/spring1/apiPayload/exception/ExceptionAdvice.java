@@ -1,4 +1,4 @@
-package umc.spring1.apiResponse.exception;
+package umc.spring1.apiPayload.exception;
 
 
 import jakarta.servlet.http.HttpServletRequest;
@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.context.request.ServletWebRequest;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
-import umc.spring1.apiResponse.ApiResponse;
-import umc.spring1.apiResponse.code.ErrorReasonDTO;
-import umc.spring1.apiResponse.code.status.ErrorStatus;
+import umc.spring1.apiPayload.ApiResponse;
+import umc.spring1.apiPayload.code.ErrorReasonDTO;
+import umc.spring1.apiPayload.code.status.ErrorStatus;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
